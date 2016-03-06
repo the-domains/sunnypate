@@ -1,17 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[SunnyPate]]></title>
-        <description><![CDATA[SunnyPate]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Personal & Professional Life Hacks]]></title>
+        <description><![CDATA[Personal & Professional Life Hacks]]></description>
+        <link>https://thegrid.ai/sunnypate/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 17:56:43 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 06 Mar 2016 18:18:15 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sunnypate/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[maslow's
+self-actualizing characteristics]]></title>
+            <description><![CDATA[<article><h1>maslow's
+self-actualizing characteristics</h1><p></p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea5a44ed-b72b-4389-8308-de2a0cd784c4.jpg"></article>]]></description>
+            <link>https://thegrid.ai/sunnypate/fef6f128-3276-4fb0-a692-d043627e50f0/index.html</link>
+            <guid isPermaLink="false">fef6f128-3276-4fb0-a692-d043627e50f0</guid>
+            <pubDate>Sun, 06 Mar 2016 18:17:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Tips to Figure out your True Calling]]></title>
             <description><![CDATA[<article><h1>Tips to Figure out your True Calling</h1><p>“Have the courage to follow your
 heart and intuition. They somehow already know what you
-truly want to become. Everything else is secondary.”</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6f78b249-11a3-4579-a4dc-bad1c1bd4ccd.jpg"></article>]]></description>
-            <link>undefined76d24770-fcf1-4187-8059-6e6c63ea1bb2/index.html</link>
+truly want to become. Everything else is secondary.”</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a4450e845bd40680904a4598d9dfd0b081397efb.jpg"></article>]]></description>
+            <link>https://thegrid.ai/sunnypate/76d24770-fcf1-4187-8059-6e6c63ea1bb2/index.html</link>
             <guid isPermaLink="false">76d24770-fcf1-4187-8059-6e6c63ea1bb2</guid>
             <pubDate>Sun, 06 Mar 2016 17:55:38 GMT</pubDate>
         </item>
